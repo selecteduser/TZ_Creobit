@@ -6,7 +6,6 @@ public sealed class MiniGamesDisplayItemLabelsHandler
     private readonly GameObject _loadLabel;
     private readonly GameObject _unloadLabel;
     private readonly GameObject _playLabel;
-    private readonly StateMachineHandler _miniGameHandlerStateMachine;
 
     public MiniGamesDisplayItemLabelsHandler(GameObject title, GameObject loadLabel, GameObject unloadLabel, GameObject playLabel)
     {
