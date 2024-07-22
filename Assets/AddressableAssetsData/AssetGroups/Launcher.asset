@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Launcher
+  m_EditorClassIdentifier: 
+  m_GroupName: Launcher
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bab80faa89f8a0045bf7e15db4c1cc12
+  m_SerializeEntries:
+  - m_GUID: 4ee7cb77a6ff9cd4ebe3c65a8e785b97
+    m_Address: Assets/Overall Mini Games Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e8dd50f7e98a28a478fcc98b97fdbff7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 75f0192f320a15349a78881a1bb6c92e, type: 2}
+    - {fileID: 11400000, guid: 3facd73c45aaf55489af22eccc9174d0, type: 2}

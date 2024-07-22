@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86f929ac86dcbdc47a4f1b0d8b3f6dae, type: 3}
+  m_Name: Overall Mini Games Data
+  m_EditorClassIdentifier: 
+  _miniGames:
+  - _title: Clickuh
+    _container:
+      m_AssetGUID: 9c076a6ade448cd43bfa4c8b0f46daa8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _title: Bottleman
+    _container:
+      m_AssetGUID: 6dfb098d71ab5ab44ab58eabac494830
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

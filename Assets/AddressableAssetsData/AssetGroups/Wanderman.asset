@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Wanderman
+  m_EditorClassIdentifier: 
+  m_GroupName: Wanderman
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1fc6014d64133c0428180d32e0ffeb1c
+  m_SerializeEntries:
+  - m_GUID: 6dfb098d71ab5ab44ab58eabac494830
+    m_Address: Assets/Prefabs/Bottleman Container.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34622d810309f7148813c39720d281b6
+    m_Address: Assets/Graphics/Bottleman/atlas.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52785ef9f0050b645aa179bd72795908
+    m_Address: Assets/Graphics/Bottleman/bottle.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e000dff2ce4d9024cacb41cab03748a4
+    m_Address: Assets/Graphics/Bottleman/hobo.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab64098163029c24ca6e7624f744a705
+    m_Address: Assets/Graphics/Bottleman/hobo.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e8dd50f7e98a28a478fcc98b97fdbff7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1f7cb5ac8059c7a4895c0265285d410e, type: 2}
+    - {fileID: 11400000, guid: b35b29382f2924445bdeb8db39260162, type: 2}
